@@ -1,0 +1,5 @@
+D:\robot\Robot\Robot21\bin\Debug\Robot21.dll
+D:\robot\Robot\Robot21\bin\Debug\Robot21.pdb
+D:\robot\Robot\Robot21\obj\Debug\Robot21.csproj.CoreCompileInputs.cache
+D:\robot\Robot\Robot21\obj\Debug\Robot21.dll
+D:\robot\Robot\Robot21\obj\Debug\Robot21.pdb
